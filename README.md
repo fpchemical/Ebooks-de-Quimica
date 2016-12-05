@@ -1,6 +1,6 @@
 ## Ebooks-de-Quimica
 
-#Projeto ** Webschool Eebooks **!!!
+# Projeto Webschool Eebooks!!!
 
 ![Webschool Ebooks](http://i.imgur.com/RURD9xd.png)
 
